@@ -4,8 +4,8 @@
     <soapenv:Body>
         <sls:generateLabel xmlns:sls="http://sls.ws.coliposte.fr">
             <generateLabelRequest xmlns="">
-                <contractNumber>810989</contractNumber>
-                <password>ASENDIA2018</password>
+                <contractNumber>999999</contractNumber>
+                <password>PASSWORD</password>
                 <outputFormat>
                     <outputPrintingType>ZPL_10x15_203dpi</outputPrintingType>
                 </outputFormat>

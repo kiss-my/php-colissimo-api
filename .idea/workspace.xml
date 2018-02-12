@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ad58b8c-ade3-4294-9e05-296f0e93f124" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/klareNNNs/colissimo/Sample/xml.xml" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Sample/xml.xml" />
     </list>
     <ignored path="php-colissimo-api.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Sample.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Sample.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Sample/Sample.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.3333335">
-              <caret line="81" column="55" selection-start-line="78" selection-start-column="60" selection-end-line="81" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.2241594">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="8" />
               <folding>
                 <element signature="n#MTOM_ResponseReader#0;n#!!top" expanded="false" />
                 <element signature="n#array_to_xml#0;n#!!top" expanded="false" />
@@ -38,40 +38,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SoapResponseFactory.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Services/SoapResponseFactory.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.352941">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding>
-                <element signature="e#48#88#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Response.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Entity/Response.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.5882354">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Messages.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Entity/Messages.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.1764706">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResponseTest.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/klareNNNs/colissimo/Entity/ResponseTest.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -80,23 +48,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MTOM_ResponseReader.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Services/MTOM_ResponseReader.php">
+      <file leaf-file-name="Client.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Client.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.0">
-              <caret line="68" column="41" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
-              <folding />
+            <state vertical-scroll-proportion="-4.117647">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding>
+                <element signature="e#39#81#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Client.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Client.php">
+      <file leaf-file-name="ClientTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.764706">
-              <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+            <state vertical-scroll-proportion="-4.0384617">
+              <caret line="30" column="76" selection-start-line="26" selection-start-column="0" selection-end-line="30" selection-end-column="76" />
               <folding>
-                <element signature="e#39#81#0#PHP" expanded="true" />
+                <element signature="e#7#46#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,30 +75,8 @@
       <file leaf-file-name="xml.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Sample/xml.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.407408">
-              <caret line="72" column="100" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="100" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClientTest.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.3846154">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding>
-                <element signature="e#7#46#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.017564403">
-              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            <state vertical-scroll-proportion="-1.2650602">
+              <caret line="36" column="69" selection-start-line="36" selection-start-column="69" selection-end-line="36" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -172,11 +120,11 @@
         <option value="$PROJECT_DIR$/src/klareNNNs/colissimo/Sample/Sample.php" />
         <option value="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/MTOM_ResponseReader.php" />
         <option value="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/SoapRequestFactory.php" />
-        <option value="$PROJECT_DIR$/src/klareNNNs/colissimo/Sample/xml.xml" />
         <option value="$PROJECT_DIR$/src/klareNNNs/colissimo/Client.php" />
         <option value="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/SoapResponseFactory.php" />
         <option value="$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/klareNNNs/colissimo/Sample/xml.xml" />
       </list>
     </option>
   </component>
@@ -744,14 +692,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Sample/xml.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.407408">
-          <caret line="72" column="100" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Services/MTOM_ResponseReader.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-20.0">
@@ -776,41 +716,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Sample/Sample.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.3333335">
-          <caret line="81" column="55" selection-start-line="78" selection-start-column="60" selection-end-line="81" selection-end-column="55" />
-          <folding>
-            <element signature="n#MTOM_ResponseReader#0;n#!!top" expanded="false" />
-            <element signature="n#array_to_xml#0;n#!!top" expanded="false" />
-            <marker date="1518104411000" expanded="true" signature="1769:1829" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Entity/Response.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5882354">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Entity/AuthHeader.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1626506">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Client.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.764706">
-          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
-          <folding>
-            <element signature="e#39#81#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -824,21 +734,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5555556">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Entity/Response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.117647">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#39#81#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.3846154">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state vertical-scroll-proportion="-4.0384617">
+          <caret line="30" column="76" selection-start-line="26" selection-start-column="0" selection-end-line="30" selection-end-column="76" />
           <folding>
             <element signature="e#7#46#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Sample/xml.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.017564403">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        <state vertical-scroll-proportion="-1.2650602">
+          <caret line="36" column="69" selection-start-line="36" selection-start-column="69" selection-end-line="36" selection-end-column="69" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Sample/Sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2241594">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="n#MTOM_ResponseReader#0;n#!!top" expanded="false" />
+            <element signature="n#array_to_xml#0;n#!!top" expanded="false" />
+            <marker date="1518104411000" expanded="true" signature="1769:1829" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
