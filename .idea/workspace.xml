@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ad58b8c-ade3-4294-9e05-296f0e93f124" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php" afterPath="$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/SoapResponseFactory.php" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/SoapResponseFactory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="php-colissimo-api.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -113,14 +112,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClientTest.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClientTest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0373599">
+            <state vertical-scroll-proportion="-0.3846154">
               <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
                 <element signature="e#7#46#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.17564403">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -167,6 +176,7 @@
         <option value="$PROJECT_DIR$/src/klareNNNs/colissimo/Client.php" />
         <option value="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/SoapResponseFactory.php" />
         <option value="$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -816,11 +826,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0373599">
+        <state vertical-scroll-proportion="-0.3846154">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
             <element signature="e#7#46#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17564403">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
