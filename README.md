@@ -1,5 +1,5 @@
-PHP MRW API
-===========
+PHP Colissimo API
+=================
 
 A PHP library for dealing with Colissimo delivery
 
