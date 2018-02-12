@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <sls:generateLabel xmlns:sls="http://sls.ws.coliposte.fr">
+            <generateLabelRequest xmlns="">
+                <contractNumber>810989</contractNumber>
+                <password>ASENDIA2018</password>
+                <outputFormat>
+                    <outputPrintingType>ZPL_10x15_203dpi</outputPrintingType>
+                </outputFormat>
+                <letter>
+                    <service>
+                        <productCode>DOS</productCode>
+                        <depositDate>2018-02-12</depositDate>
+                    </service>
+                    <parcel>
+                        <weight>1</weight>
+                    </parcel>
+                    <sender>
+                        <address>
+                            <companyName>Company Name</companyName>
+                            <line2>13 rue Percebe</line2>
+                            <countryCode>FR</countryCode>
+                            <city>Paris</city>
+                            <zipCode>75001</zipCode>
+                        </address>
+                    </sender>
+                    <addressee>
+                        <address>
+                            <lastName>Last Name</lastName>
+                            <firstName>Name</firstName>
+                            <line0>4 2o</line0>
+                            <line1>Entrance</line1>
+                            <line2>13 rue Percebe</line2>
+                            <line3>Named place</line3>
+                            <phoneNumber>06 88 88 64 31</phoneNumber>
+                            <mobileNumber/>
+                            <email>test@test.fr</email>
+                            <countryCode>FR</countryCode>
+                            <city>Paris</city>
+                            <zipCode>75001</zipCode>
+                        </address>
+                    </addressee>
+                </letter>
+            </generateLabelRequest>
+        </sls:generateLabel>
+    </soapenv:Body>
+</soapenv:Envelope>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+<soap:Body>
+    <soap:Fault>
+        <faultcode>soap:Client</faultcode>
+        <faultstring>Unmarshalling Error: cvc-complex-type.2.4.a: Invalid content was found starting with element
+            'countryCode'. One of '{intercom, language}' is expected.
+        </faultstring>
+    </soap:Fault>
+</soap:Body>
+</soap:Envelope>
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+<soap:Body>
+    <ns2:generateLabelResponse xmlns:ns2="http://sls.ws.coliposte.fr">
+        <return>
+            <messages>
+                <id>0</id>
+                <messageContent>La requête a été traitée avec succès</messageContent>
+                <type>INFOS</type>
+            </messages>
+            <labelResponse>
+                <label>
+                    <xop:Include xmlns:xop="http://www.w3.org/2004/08/xop/include"
+                                 href="cid:eaaf5d08-6de8-4564-bec5-b7f3ec8c9f4e-80256@cxf.apache.org"/>
+                </label>
+                <parcelNumber>6A15201583443</parcelNumber>
+                <parcelNumberPartner>0075001116A15201583448012506</parcelNumberPartner>
+            </labelResponse>
+        </return>
+    </ns2:generateLabelResponse>
+</soap:Body>
+</soap:Envelope>
