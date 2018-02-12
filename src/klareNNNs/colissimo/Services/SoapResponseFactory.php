@@ -23,7 +23,7 @@ class SoapResponseFactory
             $error_message = explode("</messageContent>", $error_message[1]);
             throw new UnexpectedValueException('error message : ' . $error_message[0] . '\n error code : ' . $error_code[0]);
         }
-        
+
         $resultat_tmp = $parseResponse->attachments;
         $label_content = $resultat_tmp[0];
         $my_data = $label_content["data"];

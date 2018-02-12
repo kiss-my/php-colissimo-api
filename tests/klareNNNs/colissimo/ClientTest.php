@@ -1,8 +1,5 @@
 <?php
 
-
-// $ export FRANCHISE=00620 SUBSCRIBER=017017 USER=SG00620LATOSTADORA PASSWORD=SG00620LATOSTADORA phpunit
-
 use klareNNNs\colissimo\Entity\Address;
 use klareNNNs\colissimo\Entity\Letter;
 use klareNNNs\colissimo\Entity\LetterAddressee;

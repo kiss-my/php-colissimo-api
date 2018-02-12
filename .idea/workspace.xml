@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ad58b8c-ade3-4294-9e05-296f0e93f124" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Entity/Address.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/klareNNNs/colissimo/Entity/AddressTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Entity/AuthHeader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/klareNNNs/colissimo/Entity/AuthHeaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Client.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/LabelFormatValidator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/klareNNNs/colissimo/Services/LabelFormatValidatorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Entity/Letter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Entity/LetterAddressee.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/klareNNNs/colissimo/Entity/LetterAddresseeTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Entity/LetterParcel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/klareNNNs/colissimo/Entity/LetterParcelTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Entity/LetterSender.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/klareNNNs/colissimo/Entity/LetterSenderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Entity/LetterService.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/klareNNNs/colissimo/Entity/LetterServiceTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/klareNNNs/colissimo/Entity/LetterTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/MTOM_ResponseReader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Entity/Messages.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/klareNNNs/colissimo/Entity/MessagesTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Entity/OutputFormat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/klareNNNs/colissimo/Entity/OutputFormatTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Entity/Response.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/klareNNNs/colissimo/Entity/ResponseTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/SoapRequestFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/SoapResponseFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/SoapTicketRequestFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/albertclaret.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php" afterPath="$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/SoapResponseFactory.php" afterPath="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/SoapResponseFactory.php" />
     </list>
     <ignored path="php-colissimo-api.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SoapResponseFactory.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SoapResponseFactory.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Services/SoapResponseFactory.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45180723">
-              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            <state vertical-scroll-proportion="-7.352941">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding>
                 <element signature="e#48#88#0#PHP" expanded="true" />
               </folding>
@@ -142,13 +113,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClientTest.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ClientTest.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.371795">
-              <caret line="181" column="81" selection-start-line="181" selection-start-column="81" selection-end-line="181" selection-end-column="81" />
+            <state vertical-scroll-proportion="0.0373599">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
-                <element signature="e#115#154#0#PHP" expanded="true" />
+                <element signature="e#7#46#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -193,9 +164,9 @@
         <option value="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/MTOM_ResponseReader.php" />
         <option value="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/SoapRequestFactory.php" />
         <option value="$PROJECT_DIR$/src/klareNNNs/colissimo/Sample/xml.xml" />
-        <option value="$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php" />
         <option value="$PROJECT_DIR$/src/klareNNNs/colissimo/Client.php" />
         <option value="$PROJECT_DIR$/src/klareNNNs/colissimo/Services/SoapResponseFactory.php" />
+        <option value="$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php" />
       </list>
     </option>
   </component>
@@ -823,16 +794,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.371795">
-          <caret line="181" column="81" selection-start-line="181" selection-start-column="81" selection-end-line="181" selection-end-column="81" />
-          <folding>
-            <element signature="e#115#154#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Client.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.764706">
@@ -845,10 +806,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/klareNNNs/colissimo/Services/SoapResponseFactory.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45180723">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        <state vertical-scroll-proportion="-7.352941">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="e#48#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/klareNNNs/colissimo/ClientTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0373599">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#46#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
