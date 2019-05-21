@@ -1,5 +1,5 @@
 {
-  "name": "klarennns/php-colissimo-api",
+  "name": "kiss-my/php-colissimo-api",
   "type": "project",
   "description": "Api Client to connect to colissimo Services",
   "minimum-stability": "dev",
@@ -15,11 +15,16 @@
       "name": "Albert Claret",
       "email": "klarensone@gmail.com",
       "role": "Developer"
+    },
+    {
+      "name": "Seïfane Idouchach",
+      "email": "seifane@kissmy.co",
+      "role": "Developer"
     }
   ],
   "require": {
     "php": ">=7.0",
-    "symfony/var-dumper": "^3.4"
+    "symfony/var-dumper": "^4.2.8"
   },
   "autoload": {
     "psr-4": {
